@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gbteshite6195@gmail.com**
 
-- ⚡ Fun fact **i think i am slow learner**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
