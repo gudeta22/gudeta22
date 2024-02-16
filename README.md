@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gudeta Buli</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudeta22" alt="gudeta22" /></a> </p>
