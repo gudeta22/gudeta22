@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gbteshite6195@gmail.com**
   
--https://gudetaportofolio.vercel.app/
+- Personal Portofolio**https://gudetaportofolio.vercel.app/**
 
 
 <h3 align="left">Connect with me:</h3>
