@@ -12,8 +12,9 @@
 - 💬 Ask me about **Programming and problem solving**
 
 - 📫 How to reach me **gbteshite6195@gmail.com**
+- Portofolio **https://gudetabuli.vercel.app/**
   
--<a target = "_blank"> Personal Portofolio**https://gudetaportofolio.vercel.app/**</a>
+
 
 
 <h3 align="left">Connect with me:</h3>
