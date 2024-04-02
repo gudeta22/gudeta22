@@ -12,7 +12,7 @@
 - 💬 Ask me about **Programming and problem solving**
 
 - 📫 How to reach me **gbteshite6195@gmail.com**
-- 📫 How to reach me **https://gudetabuli.vercel.app/**
+- Portofolio **https://gudetabuli.vercel.app/**
 
 
 
